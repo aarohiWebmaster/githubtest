@@ -33,3 +33,6 @@ Today is the 17th April commites
 Today is the 17th April commites
 
 Today is the 17th April commites
+function divide(x,y)
+return x/y
+
